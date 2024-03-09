@@ -46,7 +46,7 @@ function App() {
           component="h2"
           sx={{ textAlign: "center", color: "white", fontFamily: "Ojuju" }}
         >
-          Book Store
+          Books
         </Typography>
         <ToastContainer />
 
